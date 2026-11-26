@@ -1,7 +1,6 @@
 # Tipos de Teste
 
 Resumo de estudo: testes funcionais, caixa branca e preta, regressão e testes não funcionais.
-Os mapas mentais estão na versão em PDF: [tipos-de-teste.pdf](tipos-de-teste.pdf).
 
 > **Frase-chave:** o teste funcional verifica **o que** o sistema faz (conforme os requisitos); o não funcional verifica **como** ele faz (velocidade, uso, proteção). A regressão garante que uma mudança não quebrou o que já funcionava.
 
@@ -191,8 +190,3 @@ Usabilidade: é fácil e claro de usar? Segurança: dados e acesso protegidos? P
 **O que o JMeter mede?**
 Tempo de resposta (ms), taxa de erro (%), vazão (throughput) e comportamento sob estresse.
 
-## Pontos de atenção
-
-- **FindBugs** foi descontinuado; o sucessor é o **SpotBugs**. Vale conhecer os dois nomes.
-- **Carga x stress** são diferentes: carga é o comportamento com muitos usuários; stress vai além do limite.
-- **Siglas da regressão:** URT = Unit Regression Testing, RRT = Regional Regression Testing, FRT = Full Regression Testing.
