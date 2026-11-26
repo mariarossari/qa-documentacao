@@ -1,6 +1,6 @@
 # Git e GitHub: conceitos básicos
 
-## O que é cada coisa
+## O que é?
 
 **Repositório** é a pasta do projeto, junto com todo o histórico do que foi mudando nela.
 
